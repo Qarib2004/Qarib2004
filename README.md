@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qarib2004" alt="qarib2004" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/qarib2004](https://github.com/qarib2004)
 
-- 💬 Ask me about **Java, Spring, HTML/CSS/SCSS, Node.js, TailwindCSS, React.js,React.ts,ExpressJS, MongoDB,PostgreSQL,**
 
 - 📫 How to reach me **garibalisultanov@gmail.com**
 
@@ -26,3 +24,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qarib2004&show_icons=true&locale=en" alt="qarib2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qarib2004&" alt="qarib2004" /></p>
+
+🚀 My Projects
+🔗 Reddit Clone — Full-featured Reddit clone with user authentication, post creation, voting system, and real-time comments.
+
+🔗 React Classroom Project — Educational platform for managing classroom activities, assignments, and student-teacher interactions.
+
+🔗 Commerce Backend — Robust e-commerce backend built with Java Spring Boot and PostgreSQL.
+
+🔗 NeoShop — Full-stack modern e-commerce platform with Next.js, Nest.js, Prisma, and OAuth integration.
+
+
