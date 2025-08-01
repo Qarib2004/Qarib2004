@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Qarib</h1>
 <h3 align="center">I am a budding Full Stack Developer, continuously learning and honing my skills to become better every day</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qarib2004" alt="qarib2004" /></a> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/qarib2004](https://github.com/qarib2004)
@@ -26,12 +25,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qarib2004&" alt="qarib2004" /></p>
 
 🚀 My Projects
-🔗 Reddit Clone — Full-featured Reddit clone with user authentication, post creation, voting system, and real-time comments.
+🔗 Reddit Clone — Full-featured Reddit clone with user authentication, post creation, voting system, and real-time comments - https://github.com/Qarib2004/reddit
 
-🔗 React Classroom Project — Educational platform for managing classroom activities, assignments, and student-teacher interactions.
+🔗 React Classroom Project — Educational platform for managing classroom activities, assignments, and student-teacher interactions - https://github.com/nurlan1717/react-classroom-project
 
-🔗 Commerce Backend — Robust e-commerce backend built with Java Spring Boot and PostgreSQL.
+🔗 Commerce Backend — Robust e-commerce backend built with Java Spring Boot and PostgreSQL - https://github.com/Qarib2004/commerce-back-java
 
-🔗 NeoShop — Full-stack modern e-commerce platform with Next.js, Nest.js, Prisma, and OAuth integration.
+🔗 NeoShop — Full-stack modern e-commerce platform with Next.js, Nest.js, Prisma, and OAuth integration - https://github.com/Qarib2004/NeoShop
 
 
