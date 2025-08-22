@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **garibalisultanov@gmail.com**
 
+- Portfolio: https://full-portfollio.vercel.app/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garib alisultanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garib alisultanov" height="30" width="40" /></a>
