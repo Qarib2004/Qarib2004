@@ -21,12 +21,14 @@
 
 
 🚀 My Projects
-🔗 Reddit Clone — Full-featured Reddit clone with user authentication, post creation, voting system, and real-time comments - https://github.com/Qarib2004/reddit
+🔗 Reddit Clone — Full-featured Reddit clone with user authentication, post creation, voting system, and real-time comments.Panel:admin,moderator,user - https://github.com/Qarib2004/reddit
 
 🔗 React Classroom Project — Educational platform for managing classroom activities, assignments, and student-teacher interactions - https://github.com/nurlan1717/react-classroom-project
 
 🔗 Commerce Backend — Robust e-commerce backend built with Java Spring Boot and PostgreSQL - https://github.com/Qarib2004/commerce-back-java
 
 🔗 NeoShop — Full-stack modern e-commerce platform with Next.js, Nest.js, Prisma, and OAuth integration - https://github.com/Qarib2004/NeoShop
+
+🔗 Cinefy - A modern movie streaming platform built with Next.js (frontend) and Nest.js (backend). Features include movie catalog, genre-based browsing, user authentication.Panel:admin,user - https://github.com/Qarib2004/cinefy-project
 
 
