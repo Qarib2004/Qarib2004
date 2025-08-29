@@ -33,4 +33,6 @@
 
 🔗 Cinefy - A modern movie streaming platform built with Next.js (frontend) and Nest.js (backend). Features include movie catalog, genre-based browsing, user authentication.Panel:admin,user - https://github.com/Qarib2004/cinefy-project
 
+🔗 DeliVery - Features include login, registration, token-based authentication, shopping basket, favorites, search functionality, category details page, and product details page. - https://github.com/Qarib2004/DeliVery
+
 
